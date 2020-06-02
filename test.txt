@@ -1,2 +1,6 @@
 on new branch
+<<<<<<< HEAD
 test
+=======
+new branch
+>>>>>>> local
