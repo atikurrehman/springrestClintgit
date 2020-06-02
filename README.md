@@ -1,5 +1,5 @@
 # springrestClintgit
-spring Rest Clint for consuming Rest servicess in spring.
+spring Rest Clint for consuming Rest servicess in spring mvc.
 
 ##Introduction
 this spring application is desing for consuming rest api using restClint and using it in spring mvc application .
